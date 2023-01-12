@@ -22,7 +22,7 @@
 
 
 -   原型/设计：
-	-   Figma：https://www.figma.com/@BeiChuanAlex
+	-   Figma：https://www.figma.com/@bcale
 	
 	
 
