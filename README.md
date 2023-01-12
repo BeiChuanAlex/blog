@@ -7,7 +7,6 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/BeiChuanAlex/blog?style=social">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BeiChuanAlex?style=social">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/BeiChuanAlex/blog">
-    <img alt="GitHub" src="https://img.shields.io/github/license/BeiChuanAlex/blog">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BeiChuanAlex/blog">
 </p>
 
